@@ -1,0 +1,21 @@
+{
+  "name": "scotch-angular2-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run tsc:w",
+    "tsc": "tsc",
+    "tsc:w": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/core-js": "^0.9.43",
+    "@types/jasmine": "^2.6.2",
+    "@types/node": "^8.0.47",
+    "typescript": "^2.6.1"
+  }
+}
